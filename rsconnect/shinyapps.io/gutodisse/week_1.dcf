@@ -1,0 +1,12 @@
+name: week_1
+title:
+username:
+account: gutodisse
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 211883
+bundleId: 971911
+url: https://gutodisse.shinyapps.io/week_1/
+when: 1504814455.43153
+asMultiple: FALSE
+asStatic: FALSE
